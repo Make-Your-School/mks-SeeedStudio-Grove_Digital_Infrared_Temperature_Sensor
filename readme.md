@@ -1,4 +1,3 @@
-
 ---
 title: "Infrarot-Temperatursensor"
 date: "2018-10-01T13:46:26.000Z"
