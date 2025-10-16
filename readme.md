@@ -32,8 +32,6 @@ Alle weiteren Hintergrundinformationen sowie ein Beispielaufbau und alle notwend
 Die genaue Bezeichnung des Sensors, die bei der Suche von Beschreibungen und Anleitungen wichtig sein kann, lautet MLX90615.
 
 <!-- infolist -->
-
-<!-- infolists -->
 ## Weiterführende Hintergrundinformationen:
 
 - [I2C - Wikipedia Artikel](https://de.wikipedia.org/wiki/I%C2%B2C)
