@@ -15,6 +15,9 @@ clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-Grove_Digital_In
 repo_prefix: "mks"
 repo_part: "Grove_Digital_Infrared_Temperature_Sensor"
 embedded_example_file: "examples/Grove_Digital_Infrared_Temperature_Sensor_minimal/Grove_Digital_Infrared_Temperature_Sensor_minimal.ino"
+title: 'Infrarot-Temperatursensor'
+status: 'active'
+difficulty: 'recommend'
 ---
 
 
